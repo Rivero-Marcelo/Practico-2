@@ -15,7 +15,7 @@ mostrarIndiceDePersonas($personas);
 
 function mostrarIndiceDePersonas($listaDePersonas){
 
-    echo "<b>Lista de Personas</b><br><br>";
+    echo "<h1><b>Lista de Personas</b></h1><br><br>";
 
 
     foreach($listaDePersonas as $persona){
